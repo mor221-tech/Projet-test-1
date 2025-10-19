@@ -1,7 +1,7 @@
 x*{box-sizing: border-box;}
 html,body{height: 100%;}
 body{
-    font-family: var(--font-sens);
+    font-family: Arial, sans-serif;
      color: #333;
     margin: 5;
     line-height: 1.6;
@@ -96,6 +96,12 @@ gap: 20px;}
     margin-top: 20px;
     font-size: 14px;
 
+}
+
+.back{
+  background-image: url(assets/traiange\ derriere\ la\ femme.png);
+  background-size: cover;
+  background-position: center;
 }
 
 .container{
